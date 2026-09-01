@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "agi"
+assignment: "github-pages"
+owner:
+  username: "sxonz"
+  id: 203660235
+  accepted_at: "2026-09-01T23:46:59Z"
+source:
+  owner: "gsm-class"
+  owner_id: 318515310
+  repo: "github-pages"
+  branch: "main"
